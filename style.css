@@ -39,7 +39,7 @@ font-size:42px;
 .banner{
 width:100%;
 min-height:100vh;
-background:url("IMAGE/banner.jpg") center/cover no-repeat;
+background:url("banner.jpg") center/cover no-repeat;
 }
 
 .overlay{
